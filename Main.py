@@ -6,7 +6,6 @@ import sys, os
 from datetime import datetime
 
 
-
 # Import your business logic functions and constants.
 from Transport_Challan import generate_challan, load_data_file, save_data_file, COMPANY_DATA_FILE, TRANSPORT_DATA_FILE
 
